@@ -13,7 +13,7 @@ export default function Navbar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            CalmaYA
+            Gestión Alimentaria
           </Typography>
           <Button color="inherit" component={Link} to="/reservas">Reservas</Button>
           <Button color="inherit" component={Link} to="/inventario">Inventario</Button>
